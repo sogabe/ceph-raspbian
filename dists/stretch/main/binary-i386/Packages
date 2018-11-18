@@ -1,0 +1,17 @@
+Package: libcephfs-java
+Source: ceph
+Version: 12.2.8-3-gd31aaf0244-1
+Architecture: all
+Maintainer: Ceph Maintainers <ceph-maintainers@lists.ceph.com>
+Installed-Size: 9
+Depends: libcephfs-jni (= 12.2.8-3-gd31aaf0244-1)
+Homepage: http://ceph.com/
+Priority: optional
+Section: java
+Filename: pool/main/c/ceph/libcephfs-java_12.2.8-3-gd31aaf0244-1_all.deb
+Size: 3678
+SHA256: 27c80a8267b63dcd19019198910ccf48a1d33800e129742b45fadd7bb3270aa4
+SHA1: 161dd5d1bd21d152296b72e9f7c427aae40c5bb3
+MD5sum: 8d3503405c4f7a1b80bf40eebc34ab02
+Description: Java libraries for the Ceph File System
+
